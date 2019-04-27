@@ -1,7 +1,7 @@
 var numSquares = 6;
 var colors = [];
 var pickedColor;
-var squares = document.querySelectorAll(".square");
+var squares = document.querySelectorAll(".kindaSquare");
 var colorDisplay = document.getElementById("colorDisplay");
 var messageDisplay = document.getElementById("message");
 var h1 = document.querySelector("h1");
